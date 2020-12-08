@@ -38,6 +38,8 @@ ul.tagit {
   -moz-border-radius: 0px;
   -webkit-border-radius: 0px;
   -khtml-border-radius: 0px;
+  line-height: 26px;
+  height: 30px;
   border-radius: 0px;
   background: white;
   padding: 0px;
